@@ -1,4 +1,4 @@
-FROM nginx:1.7
+FROM nginx:latest
 MAINTAINER Keith Chambers
 
 RUN DEBIAN_FRONTEND=noninteractive \
